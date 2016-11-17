@@ -1,0 +1,18 @@
+.chat-app {
+    margin: 50px;
+    padding-top: 10px;
+}
+
+.chat-app .message:first-child {
+    margin-top: 15px;
+}
+
+#messages {
+    height: 550px;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+body {
+    overflow: hidden;
+}
